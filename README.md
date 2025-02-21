@@ -16,3 +16,9 @@ Si el programa hiciera lo que deberia hacer
 3. Posteriormente, para ejecutar el programa debemos:
 
 `mvn exec:java -Dexec: mainClass "org.example.FacadeWeb"`
+
+4. Despues vaya a su buscador de confianza y en la parte superior ingrese:
+
+`http://localhost:35000/`
+
+Ya con esto deberia ver la pagina funcionando (si sirviera)
